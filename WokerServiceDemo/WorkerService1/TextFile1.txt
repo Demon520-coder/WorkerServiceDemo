@@ -1,0 +1,5 @@
+﻿#WokerService宿主 WebApi参考文档：
+https://stackoverflow.com/questions/58274763/hosting-web-api-in-net-core-worker-service-cannot-reference-iwebhostenvironme?r=SearchResults
+#添加windows服务
+sc.exe create WorkService4 binPath=D:\WorkerSrevice\publish\WorkerService1.exe
+https://www.cnblogs.com/atree/p/netcore-worker-service.html

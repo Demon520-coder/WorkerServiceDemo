@@ -1,0 +1,11 @@
+﻿{
+  "profiles": {
+    "WorkerService1": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  },
+  "urls": "http://127.0.0.1:1044"
+}
